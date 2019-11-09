@@ -1,0 +1,6 @@
+D:\Other\GoodApi\FirstApi\GoodDb\SharedDb\bin\Debug\netcoreapp2.1\SharedDb.deps.json
+D:\Other\GoodApi\FirstApi\GoodDb\SharedDb\bin\Debug\netcoreapp2.1\SharedDb.dll
+D:\Other\GoodApi\FirstApi\GoodDb\SharedDb\obj\Debug\netcoreapp2.1\SharedDb.csprojAssemblyReference.cache
+D:\Other\GoodApi\FirstApi\GoodDb\SharedDb\obj\Debug\netcoreapp2.1\SharedDb.csproj.CoreCompileInputs.cache
+D:\Other\GoodApi\FirstApi\GoodDb\SharedDb\obj\Debug\netcoreapp2.1\SharedDb.AssemblyInfoInputs.cache
+D:\Other\GoodApi\FirstApi\GoodDb\SharedDb\obj\Debug\netcoreapp2.1\SharedDb.AssemblyInfo.cs
