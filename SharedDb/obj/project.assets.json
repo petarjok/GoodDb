@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Other\\GoodDb\\SharedDb\\SharedDb\\SharedDb.csproj",
+      "projectUniqueName": "D:\\Other\\GoodApi\\FirstApi\\GoodDb\\SharedDb\\SharedDb.csproj",
       "projectName": "SharedDb",
-      "projectPath": "D:\\Other\\GoodDb\\SharedDb\\SharedDb\\SharedDb.csproj",
+      "projectPath": "D:\\Other\\GoodApi\\FirstApi\\GoodDb\\SharedDb\\SharedDb.csproj",
       "packagesPath": "C:\\Users\\petar.joksimovic\\.nuget\\packages\\",
-      "outputPath": "D:\\Other\\GoodDb\\SharedDb\\SharedDb\\obj\\",
+      "outputPath": "D:\\Other\\GoodApi\\FirstApi\\GoodDb\\SharedDb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
